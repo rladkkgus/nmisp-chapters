@@ -1,0 +1,18 @@
+[submodule "00_introduction"]
+	path = 00_introduction
+	url = https://github.com/kangwonlee/nmisp-00-intro
+[submodule "01_root_finding"]
+	path = 01_root_finding
+	url = https://github.com/kangwonlee/nmisp-01-roots
+[submodule "02_num_int"]
+	path = 02_num_int
+	url = https://github.com/kangwonlee/nmisp-02-num-int
+[submodule "03_linear_algebra_1"]
+	path = 03_linear_algebra_1
+	url = https://github.com/kangwonlee/nmisp-03-linalg1
+[submodule "04_ode"]
+	path = 04_ode
+	url = https://github.com/kangwonlee/nmisp-04-ode
+[submodule "05_linear_algebra_2"]
+	path = 05_linear_algebra_2
+	url = https://github.com/kangwonlee/nmisp-05-linalg2
